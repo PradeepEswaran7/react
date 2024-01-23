@@ -1,0 +1,11 @@
+.special:hover{
+    font-size: larger;
+    background-color: aqua;
+    color: crimson;
+    text-align: center;
+}
+.shadow{
+    color:red;
+    font-size:30px;
+    text-shadow: 3px 3px 2px black;
+}
